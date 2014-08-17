@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>miljko.org</title><link>http://miljko.github.io/</link><description></description><atom:link href="http://miljko.github.io/feeds/milos-miljkovic.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 25 Jul 2014 06:21:00 +0200</lastBuildDate><item><title>Research during residency</title><link>http://miljko.github.io/eng/2014/07/25/research-during-residency/</link><description>&lt;p&gt;Of the three pillars of medicine, research is the most ellusive. Unless you are
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>miljko.org</title><link>http://miljko.github.io/</link><description></description><atom:link href="http://miljko.github.io/feeds/milos-miljkovic.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 17 Aug 2014 12:03:00 +0200</lastBuildDate><item><title>Farewell, Squarespace.</title><link>http://miljko.github.io/eng/2014/08/17/farewell-squarespace/</link><description>&lt;p&gt;Starting tomorrow, miljko.org will no longer be on Squarespace.
+Instead, it will be a &lt;a href="http://getpelican.com"&gt;Pelican&lt;/a&gt;-generated static site
+hosted free of charge on &lt;a href="https://pages.github.com"&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Squarespace is an excellent service, for those who don&amp;#8217;t have the
+knowledge, time, or ambition to muck around with self-hosted websites,
+but have enough readers to justify the $8/month subscription. My long
+commute gives me more time to play with Python, git, vim, etc, and the
+$96 renewal charge was due this month. It was an easy decision to&amp;nbsp;make.&lt;/p&gt;
+&lt;p&gt;Having most of my posts saved as markdown files payed off, as it is
+currently impossible to get a clean conversion of old Squarespace articles to
+Pelican. Some links will be dead, some images temporarily unavailable, and the
+three of you reading this via &lt;span class="caps"&gt;RSS&lt;/span&gt; will need to&amp;nbsp;resubscribe.&lt;/p&gt;
+&lt;p&gt;That is&amp;nbsp;all.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Sun, 17 Aug 2014 12:03:00 +0200</pubDate><guid>tag:miljko.github.io,2014-08-17:eng/2014/08/17/farewell-squarespace/</guid></item><item><title>Research during residency</title><link>http://miljko.github.io/eng/2014/07/25/research-during-residency/</link><description>&lt;p&gt;Of the three pillars of medicine, research is the most ellusive. Unless you are
 in an &lt;span class="caps"&gt;MD&lt;/span&gt;/PhD program&amp;#8212;-not an option for most Europeans&amp;#8212;-you will have other
 priorities in medical school. And unless your residency program has a built-in
 research year, the way most surgical residencies do, you will either be way too
