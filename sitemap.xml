@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/index.html</loc>
-<lastmod>2014-08-20T06:47:29-00:00</lastmod>
+<lastmod>2014-08-22T12:57:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/archives.html</loc>
-<lastmod>2014-08-20T06:47:29-00:00</lastmod>
+<lastmod>2014-08-22T12:57:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/tags.html</loc>
-<lastmod>2014-08-20T06:47:29-00:00</lastmod>
+<lastmod>2014-08-22T12:57:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/categories.html</loc>
-<lastmod>2014-08-20T06:47:29-00:00</lastmod>
+<lastmod>2014-08-22T12:57:22-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://miljko.github.io/eng/2014/08/22/what-is-the-evidence-for-that/</loc>
+<lastmod>2014-08-22T06:27:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -404,21 +411,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/category/blog.html</loc>
-<lastmod>2014-08-18T17:54:00-00:00</lastmod>
+<lastmod>2014-08-22T06:27:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/category/pisanije.html</loc>
-<lastmod>2014-05-07T16:35:00-00:00</lastmod>
+<lastmod>2014-08-18T17:54:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/author/milos-miljkovic.html</loc>
-<lastmod>2014-08-18T17:54:00-00:00</lastmod>
+<lastmod>2014-08-22T06:27:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
