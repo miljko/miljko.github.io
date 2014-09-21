@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/index.html</loc>
-<lastmod>2014-09-14T08:58:12-00:00</lastmod>
+<lastmod>2014-09-21T08:28:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/archives.html</loc>
-<lastmod>2014-09-14T08:58:12-00:00</lastmod>
+<lastmod>2014-09-21T08:28:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/tags.html</loc>
-<lastmod>2014-09-14T08:58:12-00:00</lastmod>
+<lastmod>2014-09-21T08:28:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/categories.html</loc>
-<lastmod>2014-09-14T08:58:12-00:00</lastmod>
+<lastmod>2014-09-21T08:28:41-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://miljko.github.io/eng/2014/09/21/how-to-spend-a-monday-morning-train-ride/</loc>
+<lastmod>2014-09-21T08:06:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -432,7 +439,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/category/blog.html</loc>
-<lastmod>2014-09-14T08:57:00-00:00</lastmod>
+<lastmod>2014-09-21T08:06:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -446,7 +453,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/author/milos-miljkovic.html</loc>
-<lastmod>2014-09-14T08:57:00-00:00</lastmod>
+<lastmod>2014-09-21T08:06:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
