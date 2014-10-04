@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/index.html</loc>
-<lastmod>2014-09-21T09:13:33-00:00</lastmod>
+<lastmod>2014-10-03T21:59:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/archives.html</loc>
-<lastmod>2014-09-21T09:13:33-00:00</lastmod>
+<lastmod>2014-10-03T21:59:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/tags.html</loc>
-<lastmod>2014-09-21T09:13:33-00:00</lastmod>
+<lastmod>2014-10-03T21:59:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/categories.html</loc>
-<lastmod>2014-09-21T09:13:33-00:00</lastmod>
+<lastmod>2014-10-03T21:59:22-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://miljko.github.io/srb/2014/10/03/posle-usmle-a-pozivi/</loc>
+<lastmod>2014-10-03T21:59:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -453,14 +460,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/category/pisanije.html</loc>
-<lastmod>2014-08-18T17:54:00-00:00</lastmod>
+<lastmod>2014-10-03T21:59:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/author/milos-miljkovic.html</loc>
-<lastmod>2014-09-21T09:10:00-00:00</lastmod>
+<lastmod>2014-10-03T21:59:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
