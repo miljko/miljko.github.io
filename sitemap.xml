@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/index.html</loc>
-<lastmod>2014-10-03T21:59:22-00:00</lastmod>
+<lastmod>2014-10-05T16:13:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/archives.html</loc>
-<lastmod>2014-10-03T21:59:22-00:00</lastmod>
+<lastmod>2014-10-05T16:13:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/tags.html</loc>
-<lastmod>2014-10-03T21:59:22-00:00</lastmod>
+<lastmod>2014-10-05T16:13:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/categories.html</loc>
-<lastmod>2014-10-03T21:59:22-00:00</lastmod>
+<lastmod>2014-10-05T16:13:52-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://miljko.github.io/srb/2014/10/05/peti-oktobar-2014/</loc>
+<lastmod>2014-10-05T16:01:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -460,14 +467,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://miljko.github.io/category/pisanije.html</loc>
-<lastmod>2014-10-03T21:59:00-00:00</lastmod>
+<lastmod>2014-10-05T16:01:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://miljko.github.io/author/milos-miljkovic.html</loc>
-<lastmod>2014-10-03T21:59:00-00:00</lastmod>
+<lastmod>2014-10-05T16:01:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
