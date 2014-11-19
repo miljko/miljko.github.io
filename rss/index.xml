@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>miljko.org</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/index.xml" rel="self"></atom:link><lastBuildDate>Wed, 05 Nov 2014 13:27:00 -0500</lastBuildDate><item><title>Myeloid sarcoma, a slide show</title><link>http://miljko.org/eng/2014/11/05/myeloid-sarcoma-a-slide-show/</link><description>&lt;p&gt;This tumor board was almost two month ago. The case is fascinating, but the
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>miljko.org</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/index.xml" rel="self"></atom:link><lastBuildDate>Wed, 19 Nov 2014 08:00:00 -0500</lastBuildDate><item><title>wnLymphoma, a post mortem</title><link>http://miljko.org/eng/2014/11/19/wnlymphoma-a-post-mortem/</link><description>&lt;p&gt;Six weeks of anyhing will get tiresome near the end, doubly so if it
+involves taking a 6am train and not getting back home until 7. Combined
+inpatient/outpatient juggling twice a week didn&amp;#8217;t help either, and
+neither did the high turnover&lt;sup id="fnref:dictate"&gt;&lt;a class="footnote-ref" href="#fn:dictate" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;. Still, as inpatient rotations
+go, this one was reasonably busy—enough for me to learn quite a bit, but
+never overwhelming. More importantly, the attendings &lt;a href="http://miljko.org/eng/2014/11/01/t-cellhistiocyte-rich-large-b-cell-lymphoma/"&gt;were awesome, the
+cases interesting&lt;/a&gt;, co-workers friendly,&amp;nbsp;etc.&lt;/p&gt;
+&lt;p&gt;As the slide set I&amp;#8217;ve linked to above shows, lymphoma are tricky in
+that many are either curable or indolent enough to be kept at bay
+until something else gets to the patient; but when it&amp;#8217;s bad—and with
+current technology we can&amp;#8217;t with certainty say which ones those are at
+diagnosis, &lt;a href="http://clincancerres.aacrjournals.org/content/20/20/5182.abstract?etoc"&gt;though we&amp;#8217;re getting there&lt;/a&gt;—it can be catastrophic.
+Thankfully, those cases are&amp;nbsp;rare.&lt;/p&gt;
+&lt;p&gt;Though most chemotherapy I was ordering was &lt;a href="http://hemonc.org/wiki/Aggressive_Non-Hodgkin_lymphoma#DA-R-EPOCH"&gt;&lt;span class="caps"&gt;EPOCH&lt;/span&gt;-R&lt;/a&gt; or, &lt;a href="http://clinicaltrials.gov/ct2/show/NCT02203526?term=primary+cns+lymphoma&amp;amp;rank=22"&gt;for
+&lt;span class="caps"&gt;NCI&lt;/span&gt;&amp;#8217;s new primary &lt;span class="caps"&gt;CNS&lt;/span&gt; lymphoma protocol&lt;/a&gt;, &lt;span class="caps"&gt;TEDDI&lt;/span&gt;-R, there were
+several patients with non-hematological malignancies getting &lt;span class="caps"&gt;IL&lt;/span&gt;-15. If
+you hadn&amp;#8217;t heard of this particular interleukin being used for treatment
+before, it&amp;#8217;s becuse the results of the first-in-humans phase I trial
+done by &lt;span class="caps"&gt;NCI&lt;/span&gt; &lt;a href="http://jco.ascopubs.org/content/early/2014/11/12/JCO.2014.57.3329.abstract"&gt;have just been published in &lt;span class="caps"&gt;JCO&lt;/span&gt;&lt;/a&gt;. The maximal
+tolerated dose was somewhat low when administered as an intravenous
+bolus, so the patients are now getting it either as a 12-day continuous
+infusion, or a subcutaneous injection. I&amp;#8217;d rather not steal Dr. Conlon&amp;#8217;s
+thunder—or break any government regulations—by writing how these patients did.
+Just keep an eye for a follow-up paper. And maybe a tumor board presentation
+from me in the next few&amp;nbsp;months.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:dictate"&gt;
+&lt;p&gt;I am sure a medical transcriber somewhere is cursing under
+his or her breath every time they hear my nasal baritone—the last time I
+had dictated so many discharge summaries was during my intern year.&amp;#160;&lt;a class="footnote-backref" href="#fnref:dictate" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Wed, 19 Nov 2014 08:00:00 -0500</pubDate><guid>tag:miljko.org,2014-11-19:eng/2014/11/19/wnlymphoma-a-post-mortem/</guid></item><item><title>Myeloid sarcoma, a slide show</title><link>http://miljko.org/eng/2014/11/05/myeloid-sarcoma-a-slide-show/</link><description>&lt;p&gt;This tumor board was almost two month ago. The case is fascinating, but the
 presentation had too much patient-related information for me to be
 comfortable posting it here. I ended up removing most of the interesting
 slides, though it remains a decent introduction to &lt;span class="caps"&gt;GATA2&lt;/span&gt; mutations/MonoMAC
