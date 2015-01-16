@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>miljko.org</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Tue, 30 Dec 2014 13:33:00 -0500</lastBuildDate><item><title>Statistics resources for clinicians</title><link>http://miljko.org/eng/2014/12/30/statistics-resources-for-clinicians/</link><description>&lt;p&gt;Another week, &lt;a href="https://www.quora.com/What-is-an-online-resource-for-learning-statistics-needed-for-clinicians-explained-in-a-language-that-could-be-understood-by-doctors"&gt;another Quora question&lt;/a&gt;.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>miljko.org</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Fri, 16 Jan 2015 07:54:00 -0500</lastBuildDate><item><title>On hematology, ivory towers, and the</title><link>http://miljko.org/eng/2015/01/16/on-hematology-ivory-towers-and-the/</link><description>&lt;p&gt;The rotation is called malignant hematology, but between Thanksgiving,
+Christmas, New Year&amp;#8217;s, and everyone being away for &lt;span class="caps"&gt;ASH&lt;/span&gt;, it was a joke.
+The only memorable part were the first two weeks—the oncology consults
+at Georgetown—which reminded me that the &lt;span class="caps"&gt;NIH&lt;/span&gt; was indeed an ivory
+tower. This is compared to a well-known academic center. Compared to
+a community hospital—&lt;a href="http://www.lifebridgehealth.org/Sinai/Sinai1.aspx?cpsys_redirect=404"&gt;my last employer being a good example&lt;/a&gt;,
+though you may find &lt;a href="https://en.wikipedia.org/wiki/John_H._Stroger,_Jr._Hospital_of_Cook_County"&gt;much better&lt;/a&gt;—the Institutes in general and
+the Clinical Center in particular are a tower of crystalized angel
+tears sitting high on top of a mountain range on Mars. This is neither
+criticism nor praise, but a statement of&amp;nbsp;fact[^tears].&lt;/p&gt;
+&lt;p&gt;Having only spent four days on Georgetown consult service, I would
+rather not comment&lt;sup id="fnref:bad"&gt;&lt;a class="footnote-ref" href="#fn:bad" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;. But here are ten things about the inpatient
+side of my home institution that might interest the outside&amp;nbsp;world:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There is only one &lt;span class="caps"&gt;EMR&lt;/span&gt; and no paper&amp;nbsp;charts;&lt;/li&gt;
+&lt;li&gt;Someone else, most commonly the research nurse, will obtain the outside
+  records and have them scanned in—so the &lt;span class="caps"&gt;EMR&lt;/span&gt; is the only place you need to look
+  for&amp;nbsp;anything;&lt;/li&gt;
+&lt;li&gt;There are usually no medical students, interns, or residents—it&amp;#8217;s the &lt;span class="caps"&gt;NP&lt;/span&gt;/&lt;span class="caps"&gt;PA&lt;/span&gt;,
+  fellow, and the attending running the&amp;nbsp;show;&lt;/li&gt;
+&lt;li&gt;Remember the 3am page from the nurse asking for a Tylenol order? If it is for
+  someone on a phase 1 trial, you&amp;#8217;d better check the protocol and call the
+  attending before giving&amp;nbsp;it;&lt;/li&gt;
+&lt;li&gt;Patients can be &amp;#8220;out on pass&amp;#8221;—meaning they can leave the campus for up to
+  20-something days and still count as an inpatient, without needing to be
+  discharged and&amp;nbsp;readmitted;&lt;/li&gt;
+&lt;li&gt;If a patient needs to stay an extra day or two because of transport issues, 
+  nobody blinks an&amp;nbsp;eye;&lt;/li&gt;
+&lt;li&gt;For three to to five days you will get weird looks if it is your patient, but
+  there will be no passive-aggresive emails about the hospital not getting&amp;nbsp;reimbursement;&lt;/li&gt;
+&lt;li&gt;If it is six days or more it is likely they are homeless—social work will be on&amp;nbsp;it;&lt;/li&gt;
+&lt;li&gt;Ordering most imaging—ultrasounds, CTs, MRIs, etc—requires two steps: getting
+  a time-slot from central scheduling, or the tech on call if it is a same-day
+  scan, and putting in the order. Think about the implications and let it sink&amp;nbsp;in;&lt;/li&gt;
+&lt;li&gt;All discharge medications are dispensed from the outpatient pharmacy free of
+  charge to the patient. Yes, all of&amp;nbsp;them;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most people treated at the Clinical Center are trial participants who
+are sick, rather than &amp;#8220;just&amp;#8221; patients. There are no administrative or financial
+pressures, no dealings with insurance companies, and not much concern with
+disposition. As you can imagine, this makes for a beautiful work&amp;nbsp;environment.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:bad"&gt;
+&lt;p&gt;This makes it sound worse than it was. I don&amp;#8217;t want to comment
+because n=4, not because I&amp;#8217;m holding back the criticism. [^tears]: Angel
+tears are a pain to clean up when they melt.&amp;#160;&lt;a class="footnote-backref" href="#fnref:bad" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Fri, 16 Jan 2015 07:54:00 -0500</pubDate><guid>tag:miljko.org,2015-01-16:eng/2015/01/16/on-hematology-ivory-towers-and-the/</guid></item><item><title>Statistics resources for clinicians</title><link>http://miljko.org/eng/2014/12/30/statistics-resources-for-clinicians/</link><description>&lt;p&gt;Another week, &lt;a href="https://www.quora.com/What-is-an-online-resource-for-learning-statistics-needed-for-clinicians-explained-in-a-language-that-could-be-understood-by-doctors"&gt;another Quora question&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What is an online resource for learning statistics needed for clinicians
 explained in a language that could be understood by&amp;nbsp;doctors?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;There are many biostatistics courses available on
