@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Fri, 20 Feb 2015 14:22:00 -0500</lastBuildDate><item><title>Adjuvant hormonal therapy in early stage breast cancer</title><link>http://miljko.org/eng/2015/02/20/adjuvant-hormonal-therapy-in-early-stage-breast-cancer/</link><description>&lt;p&gt;Has it been four weeks&amp;nbsp;already?&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Sat, 28 Feb 2015 10:04:00 -0500</lastBuildDate><item><title>Apple’s App Store rules, Dosegate edition</title><link>http://miljko.org/eng/2015/02/28/dosegate/</link><description>&lt;p&gt;First they came for the &lt;a href="http://mjtsai.com/blog/2014/06/08/editorial-1-1-1-rejected-from-the-app-store/"&gt;nerds&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now they are &lt;a href="https://itunes.apple.com/app/id806809930?at=1l3v3Zp"&gt;coming for the doctors&lt;/a&gt; (see What&amp;#8217;s New in Version 3.0.5).
+The makers of MedCalc, the best medical calculator app out there, &lt;a href="http://medcalc.medserver.be/dosegate.html"&gt;explained
+what happend&lt;/a&gt; in detail&lt;sup id="fnref:dosegate"&gt;&lt;a class="footnote-ref" href="#fn:dosegate" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;. This was the rule they were
+supposedly&amp;nbsp;infringing:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;22.9&lt;/strong&gt; Apps that calculate medicinal dosages must be submitted by the
+manufacturer of those medications or recognized institutions such as
+hospitals, insurance companies, and&amp;nbsp;universities.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nevermind that many doctors view themselves as institutions—this is
+an idiotic rule. Is University of Baltimore, which has no biomedical
+science courses or programs, allowed to publish a drug dose calculator?
+Is &lt;span class="caps"&gt;GEICO&lt;/span&gt;?&lt;/p&gt;
+&lt;p&gt;The &lt;span class="caps"&gt;FDA&lt;/span&gt; has issued &lt;a href="http://www.fda.gov/downloads/MedicalDevices/.../UCM263366.pdf"&gt;guidance for mobile medical apps&lt;/a&gt;. It
+specificaly allows calculators that use generally available formulas,
+and forbids apps which calculate &lt;em&gt;radiation&lt;/em&gt; dosage, but does not
+mention drugs. Where, then, did this rule come&amp;nbsp;from?&lt;/p&gt;
+&lt;p&gt;It is, of course, the same App store rules that allowed &lt;a href="https://itunes.apple.com/us/app/homeopathy-cures/id479869465?mt=8"&gt;these&lt;/a&gt; &lt;a href="https://itunes.apple.com/us/app/homeopathy-materia-medica/id623045549?mt=8"&gt;pearls&lt;/a&gt;
+of &lt;a href="https://itunes.apple.com/us/app/kent-homeopathic-repertory/id681045237?mt=8"&gt;quackery&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s madness, and it&amp;#8217;s&amp;nbsp;maddening.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:dosegate"&gt;
+&lt;p&gt;Seeing that &lt;span class="caps"&gt;URL&lt;/span&gt; made me appreciate the developers even more.&amp;#160;&lt;a class="footnote-backref" href="#fnref:dosegate" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Sat, 28 Feb 2015 10:04:00 -0500</pubDate><guid>tag:miljko.org,2015-02-28:eng/2015/02/28/dosegate/</guid></item><item><title>Adjuvant hormonal therapy in early stage breast cancer</title><link>http://miljko.org/eng/2015/02/20/adjuvant-hormonal-therapy-in-early-stage-breast-cancer/</link><description>&lt;p&gt;Has it been four weeks&amp;nbsp;already?&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://miljko.org/eng/2015/02/19/the-more-you-know/"&gt;As recently
 mentioned&lt;/a&gt;,
 the field of breast cancer research is nothing if not full of
