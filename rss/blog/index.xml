@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Sat, 28 Feb 2015 10:04:00 -0500</lastBuildDate><item><title>Apple’s App Store rules, Dosegate edition</title><link>http://miljko.org/eng/2015/02/28/dosegate/</link><description>&lt;p&gt;First they came for the &lt;a href="http://mjtsai.com/blog/2014/06/08/editorial-1-1-1-rejected-from-the-app-store/"&gt;nerds&lt;/a&gt;.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Sun, 22 Mar 2015 13:29:00 -0400</lastBuildDate><item><title>Male breast cancer, a slide show</title><link>http://miljko.org/eng/2015/03/22/male-breast-cancer-a-slide-show/</link><description>&lt;p&gt;As the year winds down, these tumor board presentations will get less frequent.
+For now, though, it is still once a&amp;nbsp;month.&lt;/p&gt;
+&lt;p&gt;My latest, on breast cancer in men, seemed to be well-received. I
+suspect it was because, unlike most rare cancers, this one was easy to fit into
+a preexisting pattern: it is just like female breast cancer, except for… And
+voilà—you get quick and easily understood knowledge about a whole new disease&amp;nbsp;entity.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NB&lt;/span&gt;: Slides 5 through 9 have some of the best epidemiology graphs I have seen. Kudos
+to the authors of &lt;a href="http://jco.ascopubs.org/content/28/2/232"&gt;this &lt;span class="caps"&gt;JCO&lt;/span&gt; paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;object data=http://miljko.org/slides/15-03-cmc/ width="600" height="400"&gt;
+&lt;embed src=http://miljko.org/slides/15-03-cmc/ width="600" height="400"&gt;
+&lt;/embed&gt; Error: Embedded data could not be displayed. &lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;You can always &lt;a href="http://miljko.org/slides/15-03-cmc/"&gt;click here to view the slides full-screen&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Sun, 22 Mar 2015 13:29:00 -0400</pubDate><guid>tag:miljko.org,2015-03-22:eng/2015/03/22/male-breast-cancer-a-slide-show/</guid></item><item><title>Apple’s App Store rules, Dosegate edition</title><link>http://miljko.org/eng/2015/02/28/dosegate/</link><description>&lt;p&gt;First they came for the &lt;a href="http://mjtsai.com/blog/2014/06/08/editorial-1-1-1-rejected-from-the-app-store/"&gt;nerds&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Now they are &lt;a href="https://itunes.apple.com/app/id806809930?at=1l3v3Zp"&gt;coming for the doctors&lt;/a&gt; (see What&amp;#8217;s New in Version 3.0.5).
 The makers of MedCalc, the best medical calculator app out there, &lt;a href="http://medcalc.medserver.be/dosegate.html"&gt;explained
 what happend&lt;/a&gt; in detail&lt;sup id="fnref:dosegate"&gt;&lt;a class="footnote-ref" href="#fn:dosegate" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;. This was the rule they were
