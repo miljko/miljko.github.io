@@ -898,9 +898,9 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, "Open Sans", Arial, sans-serif;
   font-size: 15px;
-  line-height: 1.4;
+  line-height: 1.6;
   color: #222222;
   background-color: #ffffff;
 }
@@ -997,7 +997,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, "Open Sans", Arial, sans-serif;
   font-weight: 300;
   line-height: 1.1;
   color: inherit;
@@ -1078,23 +1078,33 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 39px;
+  font-size: 19px;
+  font-variant: small-caps;
+  line-height: 1.6;
 }
 h2,
 .h2 {
-  font-size: 32px;
+  font-size: 17px;
+  font-variant: small-caps;
+  line-height: 1.6;
 }
 h3,
 .h3 {
-  font-size: 26px;
+  font-size: 15px;
+  font-variant: small-caps;
+  line-height: 1.6;
 }
 h4,
 .h4 {
-  font-size: 19px;
+  font-size: 13px;
+  font-variant: small-caps;
+  line-height: 1.6;
 }
 h5,
 .h5 {
-  font-size: 15px;
+  font-size: 13px;
+  font-variant: small-caps;
+  line-height: 1.6;
 }
 h6,
 .h6 {
@@ -5259,7 +5269,7 @@ button.close {
   z-index: 1070;
   display: block;
   visibility: visible;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, "Open Sans", Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
@@ -5366,10 +5376,10 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, "Open Sans", Arial, sans-serif;
   font-size: 15px;
   font-weight: normal;
-  line-height: 1.4;
+  line-height: 1.6;
   text-align: left;
   background-color: #333333;
   -webkit-background-clip: padding-box;
