@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/index.xml" rel="self"></atom:link><lastBuildDate>Tue, 19 May 2015 06:37:00 -0400</lastBuildDate><item><title>Zbogom, Nemanjino</title><link>http://miljko.org/srb/2015/05/19/zbogom-nemanjino/</link><description>&lt;p&gt;Prošle godine u ovo vreme sam, i ne primetivši, prešao značajan životni
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/index.xml" rel="self"></atom:link><lastBuildDate>Fri, 29 May 2015 08:39:00 -0400</lastBuildDate><item><title>The overhead</title><link>http://miljko.org/eng/2015/05/29/the-overhead/</link><description>&lt;p&gt;There are many misnomers in American medical English. Patients walk into
+your &lt;em&gt;clinic&lt;/em&gt; (from Greek &lt;em&gt;kline&lt;/em&gt;, bed) to learn whether their scan was
+&lt;em&gt;negative&lt;/em&gt; (good) or &lt;em&gt;positive&lt;/em&gt; (bad). Those who have severe chronic
+pain may ask for their &lt;em&gt;pain medicine&lt;/em&gt; (that relieve pain, not cause
+it), usually opioids. Some physicians would call them &lt;em&gt;pain-seeking&lt;/em&gt;
+(though what they are seeking is relief). If they don&amp;#8217;t get a prescription,
+they may rate their doctor poorly on a patient satisfaction survey,
+which is a big thing if you are into &lt;em&gt;quality improvement&lt;/em&gt;. &lt;em&gt;Quality&lt;/em&gt;
+improvement. There&amp;#8217;s a&amp;nbsp;misnomer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Quality improvement&lt;/em&gt; in medicine is &lt;a href="http://www.hrsa.gov/quality/toolbox/methodology/qualityimprovement/index.html"&gt;by definition&lt;/a&gt;
+limited to improving things you can measure, i.e. quantify, i.e. judge
+by criteria that are the &lt;em&gt;ying&lt;/em&gt; to quality&amp;#8217;s &lt;em&gt;yang&lt;/em&gt;. Those measures may
+be valid or not, and may improve patients&amp;#8217; lives, longevity, etc. (or
+not) but they are not quality. Because they are measures. Numbers. You
+know,&amp;nbsp;quantities.&lt;/p&gt;
+&lt;p&gt;The movement is dangerous in at least three ways. Firstly and most
+obviously, many of the things being measured haven&amp;#8217;t been validated
+in prospective trials. They are either (poor) conjecture—like tight
+glycemic control for type &lt;span class="caps"&gt;II&lt;/span&gt; diabetics assumed to help because of good
+outcomes in type ones (since, you know, a skinny teenager and a morbidly
+obese 60-year-old are similar that way.) Or they came out of a corporate
+think-tank cocaine-fueled outside-the-box brainstorming session, like
+patient satisfaction scores&lt;sup id="fnref:pg"&gt;&lt;a class="footnote-ref" href="#fn:pg" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Secondly, even if they were the best measures in the world, tying them
+to promotion and compensation would have the unintended consequence
+of having practitioners loose sight of all other aspects of medicine,
+including the patient. There are many accounts of how it can
+happen—&lt;a href="http://www.medrants.com/archives/8134"&gt;this one from Dr. Centor comes readily to mind&lt;/a&gt;—but
+since (1) identifying and (2) addressing the patient&amp;#8217;s actual problem is
+difficult to measure objectively, it is not one of the&amp;nbsp;benchmarks.&lt;/p&gt;
+&lt;p&gt;And finally, wherever there are numbers and money, techniques will
+evolve to game the system. &lt;a href="http://davidsimon.com/the-bad-math/"&gt;David Simon&amp;#8217;s account of how this happens
+in law enforcement&lt;/a&gt; is applicable. Want fewer central line
+infections? Enact a policy not to draw blood cultures from central
+lines! Too many nosocomial urinary tract infections? Urinalyses on
+admission for everyone! Hospitals create teams with dozens of people
+whose only job is to find new and better ways to do this. And they have
+to—because everyone else is doing it. A depressing amount of time,
+money, and effort wasted because of pointless exercises of anonymous&amp;nbsp;pencil-pushers.&lt;/p&gt;
+&lt;p&gt;This is how you get to &lt;a href="http://thedoctorweighsin.com/the-rise-of-the-machine-how-hospitalpractice-admins-have-assumed-control/"&gt;a near 3000% increase in the number of hospital
+administrators over 30 years&lt;/a&gt;. I am sure they are all good
+people, &lt;a href="http://www.nytimes.com/2014/05/18/sunday-review/doctors-salaries-are-not-the-big-cost.html"&gt;with good salaries&lt;/a&gt;, but they are, for the most part,
+insignificant. An epiphenomenon induced by someone&amp;#8217;s desire to turn
+healthcare into an industry, forgetting that the six sigma ideology that
+works so well for toaster ovens can&amp;#8217;t be forced onto moist, squishy, and
+fragile&amp;nbsp;humans.&lt;/p&gt;
+&lt;p&gt;Which is also a good working definition of quality&amp;nbsp;improvement.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:pg"&gt;
+&lt;p&gt;Some speculation on my end there. They might have been on &lt;span class="caps"&gt;LSD&lt;/span&gt;.&amp;#160;&lt;a class="footnote-backref" href="#fnref:pg" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Fri, 29 May 2015 08:39:00 -0400</pubDate><guid>tag:miljko.org,2015-05-29:eng/2015/05/29/the-overhead/</guid></item><item><title>Zbogom, Nemanjino</title><link>http://miljko.org/srb/2015/05/19/zbogom-nemanjino/</link><description>&lt;p&gt;Prošle godine u ovo vreme sam, i ne primetivši, prešao značajan životni
 &lt;em&gt;miljokaz&lt;/em&gt;—moje dalje usavršavanje neće zavisiti od dobre volje srpske&amp;nbsp;birokratije.&lt;/p&gt;
 &lt;p&gt;Stranci koji žele specijalizaciju u Americi a nemaju zelenu kartu mogu
 birati između dve vrste lanaca—&lt;span class="caps"&gt;H1B&lt;/span&gt; i J1 vize. Ova prva je radna viza,
