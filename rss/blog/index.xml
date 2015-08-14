@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Wed, 01 Jul 2015 07:42:00 -0400</lastBuildDate><item><title>A yearly welcome</title><link>http://miljko.org/eng/2015/07/01/a-yearly-welcome/</link><description>&lt;p&gt;July 1st is when most &lt;span class="caps"&gt;US&lt;/span&gt; residency programs let their new interns loose
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Fri, 14 Aug 2015 19:30:00 -0400</lastBuildDate><item><title>Programming, meet medicine</title><link>http://miljko.org/eng/2015/08/14/programming-medicine/</link><description>&lt;p&gt;&lt;a href="https://twitter.com/siracusa"&gt;John Siracusa&lt;/a&gt; is a programmer. &lt;a href="https://en.wikipedia.org/wiki/Merlin_Mann"&gt;Merlin Man&lt;/a&gt; is
+a &lt;a href="http://43folders.com"&gt;lifehack guru&lt;/a&gt;-cum-&lt;a href="https://twitter.com/hotdogsladies"&gt;internet personality&lt;/a&gt;. If you
+are in a medical field, there is no particular reason you would know&amp;nbsp;them.&lt;/p&gt;
+&lt;p&gt;They co-host &lt;a href="http://relay.fm/rd"&gt;a podcast&lt;/a&gt; that modestly has themselves as the
+subject matter. It is one of the best new podcasts this year, second only to
+&lt;a href="http://relay.fm/cortex"&gt;&lt;span class="caps"&gt;CGP&lt;/span&gt; Grey&amp;#8217;s&lt;/a&gt; (though with &lt;a href="http://5by5.tv/roadwork"&gt;Road Work&lt;/a&gt; coming out this week,
+it may be a three-way tie). In this week&amp;#8217;s episode, Siracusa had this to
+say about programmers (&lt;a href="https://overcast.fm/+EtBou_7cc/39:00"&gt;link to the audio here&lt;/a&gt;—it sounds better than it&amp;nbsp;reads):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Plenty of people can espouse information telling some younger programmer
+&amp;#8220;make sure you always call &amp;#8216;srand&amp;#8217; before you call &amp;#8216;rand&amp;#8217;&amp;#8221;, and they can
+easily tell you &amp;#8220;don&amp;#8217;t listen to that guy, you should not call &amp;#8216;srand&amp;#8217; before you
+call&amp;nbsp;&amp;#8216;rand&amp;#8217;&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;Neither one of them really understands it, because they can&amp;#8217;t
+explain it. If that young programmer is saying &amp;#8220;But why? But why? Why? How do these
+things work together? Explain it to me.&amp;#8221; and they realize &amp;#8220;Oh, I can&amp;#8217;t explain
+it. All I have is this…&amp;#8221;—it&amp;#8217;s not a cargo cult, but it&amp;#8217;s more like—&amp;#8221;I have this
+practice that I&amp;#8217;ve learned through supposed bitter experience that if I didn&amp;#8217;t
+do this one time and something didn&amp;#8217;t work, then I did do it, then it did work.&amp;#8221;
+Very often in programming you can sort of learn that way where basically &amp;#8220;I
+tried this one thing and it didn&amp;#8217;t work, or this bug happened, then (I did) this other
+thing, and the bug was fixed&amp;#8221;, and come away from that with a rule, or
+a heuristic, or something you think is an unwritten law without actually
+understanding the&amp;nbsp;underlying…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Remind you of anything? In medicine, &lt;a href="https://en.wikipedia.org/wiki/Cargo_cult"&gt;&amp;#8220;cargo cult&amp;#8221;&lt;/a&gt; is exactly&lt;br /&gt;
+the term I would use. Programming&amp;#8217;s saving grace is that it is a finite
+system created by humans, and—at least in theory—knowable. The human
+body is as black a box as it ever was—the only difference between now
+and the 1800s being a stronger&amp;nbsp;flashlight.&lt;/p&gt;
+&lt;p&gt;So, programming clearly shares this with medicine: most of its practitioners
+don&amp;#8217;t have a firm grasp of what they are doing, and don&amp;#8217;t understand the
+underlying principles of their craft. Why, then, do we fool ourselves that &lt;em&gt;adding&lt;/em&gt;
+programmers&amp;#8217; idiosyncracies to physicians&amp;#8217; by the way of electronic medical
+records, clinical decision support systems, and ultimately &lt;span class="caps"&gt;AI&lt;/span&gt;-run &lt;em&gt;e-doctors&lt;/em&gt;, will
+somehow &amp;#8220;fix&amp;#8221; medicine instead of making it bad in a different&amp;nbsp;way?&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Fri, 14 Aug 2015 19:30:00 -0400</pubDate><guid>tag:miljko.org,2015-08-14:eng/2015/08/14/programming-medicine/</guid></item><item><title>A yearly welcome</title><link>http://miljko.org/eng/2015/07/01/a-yearly-welcome/</link><description>&lt;p&gt;July 1st is when most &lt;span class="caps"&gt;US&lt;/span&gt; residency programs let their new interns loose
 after a week of corporate compliance training and &lt;span class="caps"&gt;ACGME&lt;/span&gt;-mandated talks
 about&amp;nbsp;burnout.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://thewinnower.com/papers/advice-for-physicians-in-training-40-tips-from-40-docs"&gt;If you are a medical student or a new intern, read&amp;nbsp;this.&lt;/a&gt;&lt;/p&gt;
