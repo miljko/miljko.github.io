@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/index.xml" rel="self"></atom:link><lastBuildDate>Tue, 17 Nov 2015 06:57:00 -0500</lastBuildDate><item><title>Shonda Rhimes on work</title><link>http://miljko.org/eng/2015/11/17/rhimes-on-work/</link><description>&lt;blockquote&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/index.xml" rel="self"></atom:link><lastBuildDate>Tue, 24 Nov 2015 07:21:00 -0500</lastBuildDate><item><title>Sve se vraća</title><link>http://miljko.org/srb/2015/11/24/sve-se-vraca/</link><description>&lt;p&gt;Brzo: koje su još uvek profitabilne izvozne industrije u&amp;nbsp;Srbiji?&lt;/p&gt;
+&lt;p&gt;Poljoprivreda, &lt;span class="caps"&gt;OK&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Ljudi,&amp;nbsp;naravno.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.kurir.rs/srpske-fabrike-izvoz-oruzja-vredan-300-miliona-dolara-clanak-1235305"&gt;Još&amp;nbsp;nešto?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.novosti.rs/vesti/naslovna/drustvo/aktuelno.290.html:517588-Od-izvoza-oruzja-milijarda-dolara"&gt;Uopšte nije&amp;nbsp;teško.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ovakvi&amp;nbsp;naslovi:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="http://arhiva.alo.rs/aktuelno/vesti/vucic-i-dinkic-spremaju-izvoz-oruzja-arapima/2049"&gt;Vučić i Dinkić spremaju izvoz oružja&amp;nbsp;Arapima!&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;se brzo zaborave. A onda vam ljudi sa progrešnog kraja nišana koji ste prodali
+u trideset i petom poslovnom poduhvatu stoleća zakucaju na&amp;nbsp;vrata.&lt;/p&gt;
+&lt;p&gt;Zatim pročitate &lt;a href="http://www.newyorker.com/news/news-desk/belgian-terror-brussels-on-lockdown"&gt;gde evropski teroristi nabavljaju oružje&lt;/a&gt;
+(za nestrpljive: u Briselu), i &lt;a href="http://www.blic.rs/Vesti/Ekonomija/288716/Srbija-najvise-oruzja-izvozi-u-SAD-Irak-Italiju-i-Belgiju"&gt;spisak najvećih uvoznika srpskih
+rukotvorina&lt;/a&gt; vam postane jasniji (Belgija je bila na četvrtom&amp;nbsp;mestu).&lt;/p&gt;
+&lt;p&gt;Ovo nije problem samo sadašnje vlasti—i prethodnici su se &lt;a href="http://www.rts.rs/page/stories/sr/story/13/Ekonomija/659351/Izvoz+oružja%2C+ali+i+pameti.html"&gt;ponosili
+dostignućima srpske metalurgije&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Zato mi je drago što se Srbija—i ljudi i državne strukture—prema
+izbeglicama ophodi bolje nego komšije. Ali, nemojmo se pretvarati da je
+država samo nedužni posmatrač onoga što se dešava na Bliskom&amp;nbsp;Istoku.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Tue, 24 Nov 2015 07:21:00 -0500</pubDate><guid>tag:miljko.org,2015-11-24:srb/2015/11/24/sve-se-vraca/</guid></item><item><title>Shonda Rhimes on work</title><link>http://miljko.org/eng/2015/11/17/rhimes-on-work/</link><description>&lt;blockquote&gt;
 &lt;p&gt;Work will happen 24 hours a day, 365 days of the year, if you let it. We are all in that place where we are all letting it for some reason, and I don’t know&amp;nbsp;why.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Via &lt;a href="http://calnewport.com/blog/2015/11/17/shonda-rhimes-doesnt-check-e-mail-after-7-pm/"&gt;Cal Newport&amp;#8217;s&amp;nbsp;blog&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Tue, 17 Nov 2015 06:57:00 -0500</pubDate><guid>tag:miljko.org,2015-11-17:eng/2015/11/17/rhimes-on-work/</guid></item><item><title>Can you post to a Pelican blog from iOS?</title><link>http://miljko.org/eng/2015/11/12/ios-posting-test/</link><description>&lt;p&gt;It looks like you can, provided you have a server running somewhere. Mine is a 2013 MacBook Pro with a dying&amp;nbsp;battery.&lt;/p&gt;
