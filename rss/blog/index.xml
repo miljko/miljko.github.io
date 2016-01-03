@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Tue, 17 Nov 2015 06:57:00 -0500</lastBuildDate><item><title>Shonda Rhimes on work</title><link>http://miljko.org/eng/2015/11/17/rhimes-on-work/</link><description>&lt;blockquote&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Sat, 02 Jan 2016 18:14:00 -0500</lastBuildDate><item><title>Lcoked in</title><link>http://miljko.org/eng/2016/01/02/lcoked-in/</link><description>&lt;p&gt;Two years ago, I haplessly expressed excitement about my task list manager of choice being updated&amp;nbsp;soon.&lt;/p&gt;
+&lt;blockquote class="twitter-tweet" lang="en"&gt;&lt;p lang="en" dir="ltr"&gt;Speaking of &lt;a href="https://twitter.com/culturedcode"&gt;@culturedcode&lt;/a&gt;, looks like Things 3 is progressing nicely. Hope “more structure” is code for dependencies. &lt;a href="http://t.co/ctwycDyL1e"&gt;pic.twitter.com/ctwycDyL1e&lt;/a&gt;&lt;/p&gt;&amp;mdash; Miloš Miljković (@Miljko) &lt;a href="https://twitter.com/Miljko/status/429958780886196224"&gt;February 2, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;It hasn&amp;#8217;t yet. Two iterations of iOS and an Apple Watch later, Things 3 is still
+not available, and I am becoming increasingly annoyed. Inside my mind, two kinds
+of costs—Ms. Sunken and Mr. Opportunity—are battling it&amp;nbsp;out.&lt;/p&gt;
+&lt;p&gt;Mr. O has me thinking about time wasted on not being able to turn a next action
+into a project; or having to make too many taps to edit anything in the iOS app.
+And then I stress out even more contemplating all the features I don&amp;#8217;t even know
+I&amp;#8217;m missing out on—not wanting to find out about those is why I not dare read
+reviews of the&amp;nbsp;competition.&lt;/p&gt;
+&lt;p&gt;Ms. S, meanwhile, is raising dread whenever I thinking about moving to Omnifocus, Taskpaper, or whatever the &lt;span class="caps"&gt;GTD&lt;/span&gt; app du jour is—knowing that I would be trading a set of known deficiencies for a potentially grater set of unfamiliar&amp;nbsp;ones.&lt;/p&gt;
+&lt;p&gt;The mister and missus are irrational beings—even though Things 3 remains
+vaporware, there have been a few 2.x updates that iOS7-fied the experience—from
+going flat to adding extensions and notification center widgets. All that
+considered, I should not
+spend so much time thinking about an&amp;nbsp;app.&lt;/p&gt;
+&lt;p&gt;And yet, it is 6pm on January 2, 2016, and instead of writing about getting back to the lab, &lt;em&gt;finally&lt;/em&gt; finishing the PhD thesis, or being a haughty gastro-tourist in unseasonably warm New Orleans, I am being much too first-worldly for my Balkano-Serbian&amp;nbsp;comfort.&lt;/p&gt;
+&lt;p&gt;Which I will add to the pile of absurd reasons for why I dislike Cultured&amp;nbsp;Code.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Sat, 02 Jan 2016 18:14:00 -0500</pubDate><guid>tag:miljko.org,2016-01-02:eng/2016/01/02/lcoked-in/</guid></item><item><title>Shonda Rhimes on work</title><link>http://miljko.org/eng/2015/11/17/rhimes-on-work/</link><description>&lt;blockquote&gt;
 &lt;p&gt;Work will happen 24 hours a day, 365 days of the year, if you let it. We are all in that place where we are all letting it for some reason, and I don’t know&amp;nbsp;why.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Via &lt;a href="http://calnewport.com/blog/2015/11/17/shonda-rhimes-doesnt-check-e-mail-after-7-pm/"&gt;Cal Newport&amp;#8217;s&amp;nbsp;blog&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Tue, 17 Nov 2015 06:57:00 -0500</pubDate><guid>tag:miljko.org,2015-11-17:eng/2015/11/17/rhimes-on-work/</guid></item><item><title>Can you post to a Pelican blog from iOS?</title><link>http://miljko.org/eng/2015/11/12/ios-posting-test/</link><description>&lt;p&gt;It looks like you can, provided you have a server running somewhere. Mine is a 2013 MacBook Pro with a dying&amp;nbsp;battery.&lt;/p&gt;
