@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Mon, 04 Jan 2016 13:47:00 -0500</lastBuildDate><item><title>Yes, but why?</title><link>http://miljko.org/eng/2016/01/04/why/</link><description>&lt;p&gt;This website&amp;nbsp;is:&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infinite regress</title><link>http://miljko.org/</link><description></description><atom:link href="http://miljko.org/rss/blog/index.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Feb 2016 06:36:00 -0500</lastBuildDate><item><title>The 7:07 train dilemma</title><link>http://miljko.org/eng/2016/02/04/the-707-train/</link><description>&lt;p&gt;Here is a screen grab of the the &lt;a href="http://mta.maryland.gov/schedules/display.php?route=penn_southbound.xls" title="Marc Penn Southbound"&gt;Marc Penn line southbound schedule&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Marc Penn Southbound" src="/images/marc-southbound.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Note train 415, departing Baltimore Penn at 7:00 (I get on at West
+Baltimore, so in my mind it&amp;#8217;s the 7:07 train). Also note train 517—my
+7:23, and the times they both arrive at Washington Union&amp;nbsp;Station.&lt;/p&gt;
+&lt;p&gt;Is it ever worth taking the&amp;nbsp;7:07?&lt;/p&gt;
+&lt;p&gt;Well, actually, yes.&amp;nbsp;Because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Most commuters look at the schedule and make the same conclusion that you probably did: waking up at least 16 minutes earlier in the morning is not worth the 7 minute lead time you get in &lt;span class="caps"&gt;DC&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;With that in mind, even if they leave early they don&amp;#8217;t really rush to the 7:07; therefore significantly fewer people need to get in at each stop compared to the 7:23 and it usually gets to Union slightly ahead of&amp;nbsp;time.&lt;/li&gt;
+&lt;li&gt;Because of more people waiting on the 7:23 it tends to limp along in the last few stops and doesn&amp;#8217;t get to Union until 8:15 in the best of&amp;nbsp;days.&lt;/li&gt;
+&lt;li&gt;The 15-20 minute difference does mean a lot if you have to use &lt;span class="caps"&gt;DC&lt;/span&gt;&amp;#8217;s abysmal metro which gets crowded by the minute between 8 and&amp;nbsp;9.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are the sorts of things you think about when your commute is almost two
+hours each way. If you would like to read more about extreme commuting (and who
+wouldn&amp;#8217;t?), &lt;a href="http://www.newyorker.com/magazine/2007/04/16/there-and-back-again" title="The New Yorker: There and Back Again"&gt;this old New Yorker article is a good place to start&lt;/a&gt;. &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miloš Miljković</dc:creator><pubDate>Thu, 04 Feb 2016 06:36:00 -0500</pubDate><guid>tag:miljko.org,2016-02-04:eng/2016/02/04/the-707-train/</guid></item><item><title>Yes, but why?</title><link>http://miljko.org/eng/2016/01/04/why/</link><description>&lt;p&gt;This website&amp;nbsp;is:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;a public repository of articles, lectures, and other original works I authored or&amp;nbsp;co-authored;&lt;/li&gt;
 &lt;li&gt;a place to repost comments, reviews, and recommendations I wrote on other sites (like Quora, Amazon,&amp;nbsp;etc);&lt;/li&gt;
