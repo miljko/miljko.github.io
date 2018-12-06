@@ -87,6 +87,57 @@ Infinite regress            </a>
         <div class="col-lg-12">
 
             <article>
+                <h2><a href="http://miljko.org/eng/2014/05/29/managing-photos-with-transporter-hazel-picturelife-and-backblaze/">Managing photos with Transporter, Hazel, Picturelife, and&nbsp;Backblaze</a></h2>
+                <div class="summary"><p>In the olden days, back when I could keep all my photos on Facebook, photo management was simple. I didn&#8217;t have that many to begin with; the ones I did have were grouped around events—birthdays, vacations, etc—and easily organized into albums. I also didn&#8217;t care much for privacy, or&nbsp;backups.</p>
+<p>Then two things happened: iPhone 4S, and Dora. Every day became a photo-op, with two cameras in our pockets ready to shoot. The <span class="caps">DSLR</span> was still there for big trips and Dora&#8217;s modeling yet another outrageously expensive dress. This gave&nbsp;us:</p>
+<ul>
+<li>hundred of new photos and hours of video each month coming from four different sources (our two iPhones, a Nikon <span class="caps">DSLR</span>, and friends with their own&nbsp;cameras);</li>
+<li>no time to sort&nbsp;them;</li>
+<li>more respect for privacy, but at the same time a need to share baby photos with&nbsp;everyone;</li>
+<li>panic attacks whenever I thought about having to organize the mess of file names, formats, storage, and backup&nbsp;solutions.</li>
+</ul>
+<p>We needed a good method to <em>collect</em> all the photos, <em>organize</em> them for easy access, <em>retrieve</em> them quickly for show-off purposes, and <em>back them up</em> both locally and in the&nbsp;cloud. </p>
+<p>Having children usually comes at a point in your life when you care less about money and more about your time—though your progeny will do their best to relinquish you of both. The willpower-depleting effects of a toddler&#8217;s tantrum are also well-documented. No surprise then that many of the tools listed below have at some point sponsored <a href="http://5by5.tv/mpu">a certain Mac-centric podcast</a> that has destroyed many family budgets<sup id="fnref:affiliate"><a class="footnote-ref" href="#fn:affiliate" rel="footnote">3</a></sup>. No regrets, though—it all&nbsp;works.</p>
+<h1>Collecting, with <a href="http://www.filetransporter.com">Transporter&nbsp;Sync</a></h1>
+<p>For simplicity&#8217;s sake, I like systems with multiple inputs to have one central gathering node. Unfortunately, our only desktop computer is a ridiculously noisy four-year-old Windows <span class="caps">PC</span> which sits in a usually occupied guest bedroom. The fans that buzz with the sound of a thousand bumblebees instantly disqualify it from a job as a media server, so I had to use my Macbook Pro. Thanks to <a href="http://www.filetransporter.com">Transporter Sync</a>, that was easier than I thought possible for an <span class="caps">SSD</span>-only&nbsp;machine.</p>
+<p>Transporter, similarly to Dropbox, has an iOS app that automatically uploads new photos to a predetermined folder. Unlike Dropbox, there is no monthly subscription—you pay once for the device, and keep using it as long as the hard drive is working. It can also act as a <span class="caps">NAS</span>-lite—having access to the folders kept only on the remote hard drive without them occupying the limited space of an <span class="caps">SSD</span>, through a <em>Transporter Library</em>&nbsp;folder.</p>
+<h1>Organizing, with <a href="http://www.noodlesoft.com/hazel.php">Hazel</a></h1>
+<p>A folder full of unsorted cryptically named JPEGs and RAWs is less than useful when your parents want to see all the photos from that trip to Naples back in&nbsp;January.</p>
+<p>Enter <a href="http://www.noodlesoft.com/hazel.php">Hazel</a>, the Swiss army knife of file automation. With the rules I&#8217;ve set up, it renames photos based on the date and time taken, tags them according to the device that took them, and moves them to the proper Year/Month subfolder. It does the same with our <span class="caps">DSLR</span>&#8217;s <span class="caps">RAW</span> files, placing them in a separate folder. Since the laptop only has 256 Gb, it moves any files older that three months to Transporter Library, the &#8220;special&#8221; folder kept only on the external hard&nbsp;drive.</p>
+<p>We therefore have the last three months&#8217; worth of photos and videos organized by year and month on the laptop, and our entire collection on the external Transporter hard&nbsp;drive.</p>
+<h1>Access, with <a href="https://picturelife.com/?love=ESiT3XreRGzeKT5U">Picturelife</a></h1>
+<p>In theory, we could get to all those photos using the Transporter iOS app, but we&#8217;re not a masochists. It&#8217;s slow, ugly, and not meant for browsing&nbsp;media.</p>
+<p>Thank <span class="caps">FSM</span> for <a href="https://picturelife.com/?love=ESiT3XreRGzeKT5U">Picturelife</a>! It sucks up all our new photos and videos from the Transporter—though we&#8217;ve excluded <span class="caps">RAW</span> files since we do have to pay for all that data<sup id="fnref:raw"><a class="footnote-ref" href="#fn:raw" rel="footnote">2</a></sup>—presents them in a nice web and mobile app interface whenever we want it, and can pass them on to Facebook, Shutterfly, Flickr, or wherever else we choose. It will also, from time to time, send you a &#8220;this day in the past&#8221; email, with photos taken years ago. When you have as many unprocessed photos as we do, it is a great discovery&nbsp;mechanism.</p>
+<p>Did I mention it can send photos to Shutterfly with just a couple of clicks? I still have flashbacks of the last holiday season, progress bar dragging glacially, the upload finishing just in time for me to miss the shipping deadline. Good&nbsp;times.</p>
+<h1>Backup, with <a href="https://secure.backblaze.com/r/00n2ui">Backblaze</a> and <a href="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html">SuperDuper!</a></h1>
+<p>Keeping everything on the Transporter and Picturelife as on-site/off-site backups would probably be enough for some. Unfortunately, counting on a <span class="caps">VC</span>-backed company that might at any point <a href="http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup">pull an Everpix</a> to hold all our photos does not seem optimal<sup id="fnref:plife"><a class="footnote-ref" href="#fn:plife" rel="footnote">4</a></sup>.</p>
+<p>Which is way <a href="https://secure.backblaze.com/r/00n2ui">Backblaze</a> and <a href="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html">SuperDuper!</a> keep copies of all those photos as a part of my general backup system<sup id="fnref:bb"><a class="footnote-ref" href="#fn:bb" rel="footnote">1</a></sup>. If you have a Mac and an extra external hard drive, you should also turn on Time Machine. This way, there are three local copies of all the photos, RAWs, and videos (Transporter, SuperDuper! image, Time Machine), a cloud backup of the same (Backblaze), and an easily-accessible collection of JPGs and videos&nbsp;(Picturelife).</p>
+<p>Setting this up is neither cheap nor simple<sup id="fnref:rg"><a class="footnote-ref" href="#fn:rg" rel="footnote">5</a></sup>, but it gives you quick and easy access to <em>all</em> your photos, has several levels of backup, and—most importantly—requires little effort to&nbsp;maintain.</p>
+<div class="footnote">
+<hr>
+<ol>
+<li id="fn:bb">
+<p>Backblaze <em>will</em> back up the Transporter Library folder, since it doesn&#8217;t count as network-attached storage. It doesn&#8217;t back up <span class="caps">NAS</span> drives.&#160;<a class="footnote-backref" href="#fnref:bb" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:raw">
+<p>We keep <span class="caps">RAW</span> files in a separate folder, one that&#8217;s not on Picturelife&#8217;s monitor list&#160;<a class="footnote-backref" href="#fnref:raw" rev="footnote" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:affiliate">
+<p>Which is why this post has affiliate links.&#160;<a class="footnote-backref" href="#fnref:affiliate" rev="footnote" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+<li id="fn:plife">
+<p>That being said, Picturelife is the best of its kind and I strongly recommend it.&#160;<a class="footnote-backref" href="#fnref:plife" rev="footnote" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+<li id="fn:rg">
+<p>I thought about illustrating it with a diagram of a Rube Goldberg machine.&#160;<a class="footnote-backref" href="#fnref:rg" rev="footnote" title="Jump back to footnote 5 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+                    <a class="btn btn-default btn-xs" href="http://miljko.org/eng/2014/05/29/managing-photos-with-transporter-hazel-picturelife-and-backblaze/">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="http://miljko.org/eng/2014/05/18/just-cant-get-a-break/">Just can&#8217;t get a&nbsp;break</a></h2>
                 <div class="summary"><p>A combination of heavy rain, bad infrastructure, and even worse emergency preparedness<sup id="fnref:ilic"><a class="footnote-ref" href="#fn:ilic" rel="footnote">1</a></sup> resulted in Serbia and Bosnia having <a href="http://www.nbcnews.com/news/world/balkans-submerged-historic-floods-threatening-thousands-n108441">the worst floods in more than a century</a>.</p>
 <p>Dozens are dead, and tens of thousands misplaced. Government officials are having nervous breakdowns on live <span class="caps">TV</span>, calling the flood &#8220;a Biblical catastrophe&#8221;—since touting vast water resources as your country&#8217;s main asset isn&#8217;t a hint as to what big disaster you should prepare for. In case you&#8217;re wondering, the Netherlands&#8217; last big flood was in <a href="http://en.wikipedia.org/wiki/North_Sea_flood_of_1953">1953</a>.</p>
@@ -332,22 +383,6 @@ Infinite regress            </a>
 </ol>
 </div>
                     <a class="btn btn-default btn-xs" href="http://miljko.org/eng/2014/01/03/the-difference-between-being-well-and-feeling-well/">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="http://miljko.org/eng/2014/01/01/starting-the-new-year-with-slogger/">Starting the New Year with&nbsp;Slogger</a></h2>
-                <div class="summary"><p>January 1st seemed to be a good day to install Brett Terpstra&#8217;s <a href="http://brettterpstra.com/projects/slogger/">Slogger</a>. Every night, its army of gnomes will go over my tweets, blog posts, completed to-dos, etc. and record them in a <a href="https://itunes.apple.com/us/app/day-one/id422304217?mt=12&amp;at=1l3v3Zp">Day One</a> journal entry. Not a replacement for a real journal, true, but better than anything I could do on my&nbsp;own.</p>
-<p>It&#8217;s a Mac-only app that runs from the command line—not user friendly at all. Even so, the installation instructions are straightforward, with some caveats for the not-too-bright, like&nbsp;me:</p>
-<ul>
-<li>Plugin configuration is done in each individual <em>plugin</em>.rb file, not&nbsp;slogger_config.</li>
-<li>All config strings (URLs, file paths, usernames…) should be in quotes (&#8220;…&#8221;), even when in an array (i.e. in square brackets). The Twitter plugin instructions wrongly give an example without&nbsp;quotes.</li>
-<li>The Instapaper plugin doesn&#8217;t work since <span class="caps">RSS</span> feeds for folders are no longer supported. I&#8217;m still not switching to&nbsp;Pocket.</li>
-<li>You will need an <a href="https://ifttt.com/"><span class="caps">IFTTT</span></a> account to log your Facebook posts, using <a href="https://ifttt.com/recipes/56242">this recipe</a>.</li>
-<li><a href="http://simplicitybliss.com/integrating-slogger-and-runkeeper/">Instructions for logging RunKeeper activity</a> are convoluted, but&nbsp;work.</li>
-</ul>
-<p>Slogger&#8217;s default time for sucking in your data is 11:50pm, when my laptop is usually in sleep mode. The scheduler should still be smart enough to start the app on wake-up. Nevertheless, it&#8217;s one more reason for me to get a used Mac Mini. In 2015,&nbsp;perhaps.</p>
-                    <a class="btn btn-default btn-xs" href="http://miljko.org/eng/2014/01/01/starting-the-new-year-with-slogger/">more ...</a>
                 </div>
             </article>
             <hr/>
